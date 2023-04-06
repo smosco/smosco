@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=soft&color=auto&customColor=10&text=HelloWorld!)
+![header](https://capsule-render.vercel.app/api?&type=soft&color=auto&customColor=1&text=HelloWorld!&animation=twinkling)
 
 
 # :wave:안녕하세요!
