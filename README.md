@@ -5,10 +5,7 @@
 ## 🔧 기술 스택
 
 - **프레임워크/라이브러리**:  
-  `React`, `TypeScript`, `JavaScript`, `Zustand`, `Recoil`, `Sass`, `Styled Components`
+  `Next.js`, `React`, `TypeScript`, `JavaScript`, `Zustand`, `Recoil`, `Sass`, `Styled Components`
 
 - **백엔드 & 도구**:  
-  `Firebase (Authentication, Firestore, Functions)`, `Stripe`, `TMap API`
-
-- **기타**:  
-  `데이터 시각화 (Recharts)`, `서버리스 아키텍처`
+  `Firebase (Authentication, Firestore, Functions)`, `Prisma`, `Git`
