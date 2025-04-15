@@ -1,9 +1,13 @@
-# 👋 안녕하세요. 사용자를 세심하게 배려하는 프론트엔드 개발자 smosco 입니다
+Product mind를 가지고 개발하고 있어요.  
+기능을 만들기 전에, 이 흐름이 사용자에게 어떤 의미가 있을지를 먼저 고민해요.
 
-## 🔧 기술 스택
+UI 구현을 넘어서, 사용자 행동에 맞춘 인터랙션 흐름을 설계하는 데 관심이 많고,  
+요즘은 AI 기반 도구나 개발자 생산성을 높이는 도구에도 실험적으로 접근해보고 있어요.
 
-- **프레임워크/라이브러리**:  
-  `Next.js`, `React`, `TypeScript`, `JavaScript`, `Zustand`, `Recoil`, `Sass`, `Styled Components`
+🧠 BIENGUAL 프로젝트에서는 퀴즈 흐름을 이벤트 기반으로 리디자인했고,  
+🍽 Next Table Order에서는 실시간 주문 시스템을 직접 설계했어요.
 
-- **백엔드 & 도구**:  
-  `Firebase (Authentication, Firestore, Functions)`, `Prisma`, `Git`
+작은 기능 하나라도  
+팀의 흐름이나 사용자 경험을 바꿀 수 있다고 믿고 개발하고 있어요.
+
+👉 [포트폴리오 보기](https://smosco.dev/portfolio)
